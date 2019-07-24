@@ -16,4 +16,4 @@ https://github.com/square/retrofit
 ## Screen-grab
 Unfortunately no search result can be shown as of now due to the networking issues. However, it works perfectly if "game" objects are created locally.  
 
-![SearchApp-Gif](SearchAppGif)
+![SearchApp-Gif](SearchAppGif.gif)
