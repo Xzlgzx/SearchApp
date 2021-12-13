@@ -1,4 +1,6 @@
 ## About
+This app was built in 3 hours for a coding challenge a company sent me for internship recruitment. It was done when I just started to learn code. 
+
 The app uses the search-dialog library for setting up the search dialog and displaying the search result. Retrofit is the HTTP client used to send the GET request to the Node.Js server to fetch the desired search result. Furthermore, retrofit/GsonConverterFactory is able to turn the search result into GSON, saving each deserialized Java object as a "Game" object. Finally, the list of "Game" object is stored in "newGameSearch" and used by the search-dialog library to display the search result.
 
 However, because I only realized  very late on that the Android Emulator requires further Network Configuration to make GET work, the emulator is unable to connect to the Localhost.
